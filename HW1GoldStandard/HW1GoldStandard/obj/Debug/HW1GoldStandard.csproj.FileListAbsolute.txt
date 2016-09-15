@@ -1,0 +1,6 @@
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\HW1GoldStandard\HW1GoldStandard\bin\Debug\HW1GoldStandard.exe.config
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\HW1GoldStandard\HW1GoldStandard\bin\Debug\HW1GoldStandard.exe
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\HW1GoldStandard\HW1GoldStandard\bin\Debug\HW1GoldStandard.pdb
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\HW1GoldStandard\HW1GoldStandard\obj\Debug\HW1GoldStandard.csprojResolveAssemblyReference.cache
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\HW1GoldStandard\HW1GoldStandard\obj\Debug\HW1GoldStandard.exe
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\HW1GoldStandard\HW1GoldStandard\obj\Debug\HW1GoldStandard.pdb
